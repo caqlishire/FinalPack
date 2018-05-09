@@ -122,7 +122,7 @@ Here are all my contributions and my peer reviews also issues that i create
 
 
 
-### My final Word
+### My final Word with my Attendance record
 
 My Attendance Records/ Register for Spring 2018  
  * 01/10/18 Week 1  
