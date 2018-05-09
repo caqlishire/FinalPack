@@ -41,9 +41,9 @@ Here is my script for that week amazing work
 
 Here is what i did for that week and i feel after words it was week i did another script that i named week 6A both u can find this link
 
-[Week SixA](https://github.com/caqlishire/week6A)
+* [Week SixA](https://github.com/caqlishire/week6A)
 
-[Week Six](https://github.com/caqlishire/week6)
+* [Week Six](https://github.com/caqlishire/week6)
 ### Week 7
 - I wrote, Read and gave 500 words response to An IndustryGuide to Becoming a Software EngineerRead, and i reviewed, and run peer scripts from GitHub in your VM. that was another fun week and i learned new tricks to things faster.
 
@@ -86,11 +86,11 @@ Here is the script for those chapters togather
 -This Week was two thiny chapters chapter 14 and 15 briefly survey of the linux desktop it its quickly introduction to the components foundin a typical linux desktop system. of all the diffrent kinds of software that you can find o linux system, in the desktop arena is one of the wildest and most colorful aslo we covered Development Tools chapter 15 linux and unix are very popular with programmers, not just due to the overwhelming array of tools and enviroments available but also because the system is exceptionally well documented and transparent.  As well week 14, chapter 14 was about Window Managers and chapter 15 was about the C compiler. I learned some commands such as "xwininfo" to see the location of the icon. 
 Team contribution: I set up my Pi as a webserver and but i failed to connect to his server at home, I did some research about [TCP vs UDP and SSH port 22] also i did some other reseach for IPXE and netboot i was in two group Ooops Slackers and Linux star and my role was reaserch and support as well check the link below for my script and my team contribution
 
-[week 14](https://github.com/caqlishire/week14)
+* [week 14](https://github.com/caqlishire/week14)
 
-[Team contribution](https://github.com/caqlishire/netboot.xyz)
+* [Team contribution](https://github.com/caqlishire/netboot.xyz)
 
-[Second contribution](https://github.com/caqlishire/FTP-SERVER-ON-RASPBERRY-PI)
+* [Second contribution](https://github.com/caqlishire/FTP-SERVER-ON-RASPBERRY-PI)
 ### Week 15
 - As for this week, my team contribution was to write steps on how to install apache2 and deploy the our sootsplash server that our teacher gave as the access also i read and review chapter 16 how linux work Introduction to compilling software from C source code because most nonproprietary third-party Unix software packages come as source code that you can uild and install and one reason forthis is that Unix and linux its self has so many diffrent flavors and architectures that is would be difficult to distribute binary packages for all. check the link below for my work for that week including my weekly script
 
@@ -99,23 +99,23 @@ Team contribution: I set up my Pi as a webserver and but i failed to connect to 
 ### Week 16
 - Last but not the least here is the finnaly week i went trough teacher reiview for that we did and how i am going so far it was wonderful to see that your hard work paid off and just want to say thank you teacher Matthew J. Harmon for your endless help and encouragement you really teach us the real things after your help im going to take the Linux certificate exam and i couldnt do it with out your help also tis week i help my two wonderfull groups Oppps Slackers and Linux Stars below you can finf these links
 
-[week 16](https://github.com/caqlishire/week16)
+* [week 16](https://github.com/caqlishire/week16)
 
-[Weekly contributions](https://github.com/caqlishire/week17)
+* [Weekly contributions](https://github.com/caqlishire/week17)
 
-[Weekly contribution](https://github.com/caqlishire/Opps-Team)
+* [Weekly contribution](https://github.com/caqlishire/Opps-Team)
 
 Here are all my contributions and my peer reviews also issues that i create 
 
-[weekly conrobition](https://github.com/caqlishire/oopsslackerstemp)
+* [weekly conrobition](https://github.com/caqlishire/oopsslackerstemp)
 
-[weekly conrobition](https://github.com/caqlishire/interface-ipfs-core)
+* [weekly conrobition](https://github.com/caqlishire/interface-ipfs-core)
 
-[weekly conrobition](https://github.com/caqlishire/netboot.xyz)
+* [weekly conrobition](https://github.com/caqlishire/netboot.xyz)
 
-[weekly conrobition](https://github.com/caqlishire/interface-ipfs-core)
+* [weekly conrobition](https://github.com/caqlishire/interface-ipfs-core)
 
-[weekly conrobition](https://github.com/caqlishire/week17)
+* [weekly conrobition](https://github.com/caqlishire/week17)
 
 
 
@@ -124,29 +124,31 @@ Here are all my contributions and my peer reviews also issues that i create
 
 ### My final Word
 
-1 +My Attendance Records/ Register for Spring 2018  
- 2 +01/10/18  Week 1  
- 3 +01/17/18 week 2  
- 4 +01/24/18   week3  
- 5 +01/31/18  week4  
- 6 +02/07/18  week5  
- 7 +02/07/18 week6  
- 8 valentinus Day  
- 9 +02/21/18 week8  
- 10 +02/28/18 week9  
- 11 +02/28/18 week10  
- 12 +03/07/18 week11  
- 13 +03/14/18 week12  
- 14 +03/21/18 week13  
- 15 +03/28/18 week14  
- 16 +04/04/18 week15  
- 17 +04/02/18 week16  
- 18 +04/11/18 week17  
- 19 +04/18/2018  
- 20 04/25/2018
- 21.05/02/2018
- 22.05/09/2018
- I deserved a grade of A in each of the assigments because i was dedicated and committed to requirements for the class including, weekly homeworks, group project contributions, Case study, reading the chapters in the book before attending lecture, doing extra research on website to enhance my understanding, and attending all sixeety weeks of class without missing out a single day, and participating in all class activities.Overall, I really like this ticket. I actully get to play and apply commands as I go. I believe this is how we learn. This is really a book from getting you the concept of the Linux to simple commands to compile them as a script. By working with my classmates was a great experience especially Linux stars and Opps slackers.
+My Attendance Records/ Register for Spring 2018  
+ * 01/10/18 Week 1  
+ * 01/17/18 Week 2  
+ * 01/24/18 Week3  
+ * 01/31/18 Week4  
+ * 02/07/18 Week5  
+ * 02/07/18 Week6  
+ * valentinus Day  
+ * 02/21/18 Week8  
+ * 02/28/18 Week9  
+ * 02/28/18 Week10  
+ * 03/07/18 Week11  
+ * 03/14/18 Week12  
+ * 03/21/18 Week13  
+ * 03/28/18 Week14  
+ * 04/04/18 Week15  
+ * 04/02/18 Week16  
+ * 04/11/18 Week17  
+ * 04/18/2018 Week 18 
+ * 04/25/2018 Week 19
+ * 05/02/2018 Week 20
+ * 05/09/2018 Week 21
+ ###
+
+I deserved a grade of A in each of the assigments because i was dedicated and committed to requirements for the class including, weekly homeworks, group project contributions, Case study, reading the chapters in the book before attending lecture, doing extra research on website to enhance my understanding, and attending all sixeety weeks of class without missing out a single day, and participating in all class activities.Overall, I really like this ticket. I actully get to play and apply commands as I go. I believe this is how we learn. This is really a book from getting you the concept of the Linux to simple commands to compile them as a script. By working with my classmates was a great experience especially Linux stars and Opps slackers.
 
 
 
