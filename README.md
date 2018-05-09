@@ -146,30 +146,6 @@ My Attendance Records/ Register for Spring 2018
  * 04/25/2018 Week 19
  * 05/02/2018 Week 20
  * 05/09/2018 Week 21
- ###
+ 
+<p>Im going to put all my work together after dedicated and committed to requirements for the class including, weekly homeworks, group project contributions, Case study, reading the chapters in the book before attending lecture, attending extra classes, doing extra research on website to enhance my understanding, and attending all sixeenthy weeks of class without missing out a single day, and participating in all class activities, groups like Opps and my Linux star both simultaneously.Overall, I really like this ticket. I actully get to play and apply commands as I go. I believe this is how we learn. This is really a book from getting you the concept of the Linux to simple commands to compile them as a script. By working with my classmates was a great experience especially Linux stars and Opps slackers.</p>
 
-I deserved a grade of A in each of the assigments because i was dedicated and committed to requirements for the class including, weekly homeworks, group project contributions, Case study, reading the chapters in the book before attending lecture, doing extra research on website to enhance my understanding, and attending all sixeety weeks of class without missing out a single day, and participating in all class activities.Overall, I really like this ticket. I actully get to play and apply commands as I go. I believe this is how we learn. This is really a book from getting you the concept of the Linux to simple commands to compile them as a script. By working with my classmates was a great experience especially Linux stars and Opps slackers.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### <p> Im going to put all my work together after dedicated and committed to requirements for the class including, weekly homeworks, group project contributions, Case study, reading the chapters in the book before attending lecture, attending extra classes, doing extra research on website to enhance my understanding, and attending all sixeenthy weeks of class without missing out a single day, and participating in all class activities, groups like Opps and my Linux star both simultaneously.</p> 
